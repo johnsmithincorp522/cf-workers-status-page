@@ -37,7 +37,7 @@ monitors:
     method: GET
     expectStatus: 200
     
-   - id: www-googleproxy-cf
+  - id: www-googleproxy-cf
     name: googleproxy.cf
     description: 'Do you really need Google'
     url: 'https://googleproxy.cf'
