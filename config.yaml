@@ -43,3 +43,10 @@ monitors:
     url: 'https://googleproxy.cf'
     method: GET
     expectStatus: 200
+    
+  - id: www-thecensorshipunblock-cf
+    name: thecensorshipunblock.cf
+    description: 'Ni hao'
+    url: 'thecensorshipunblock.cf'
+    method: GET
+    expectStatus: 200 
