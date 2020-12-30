@@ -44,6 +44,13 @@ monitors:
     method: GET
     expectStatus: 200
     
+  - id: www-downloadproxy-cf
+    name: downloadproxy.cf
+    description: 'Free download at 10gbs'
+    url: 'https://downloadproxy.cf'
+    method: GET
+    expectStatus: 200
+    
   - id: www-thecensorshipunblock-cf
     name: thecensorshipunblock.cf
     description: 'Ni hao'
